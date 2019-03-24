@@ -1,25 +1,17 @@
-# README
+# House MD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app diagnoses symptoms.
 
-Things you may want to cover:
+## By Tom Rowson & Joaquim Barreto
 
-* Ruby version
+- Tom worked on front and back ends
 
-* System dependencies
+- Joaquim worked on backend and deployment
 
-* Configuration
+### Technologies
 
-* Database creation
+- Ruby and Ruby on Rails backends
 
-* Database initialization
+- Javascript and React on frontend
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# flatiron-house-md
+- Heroku deployment
